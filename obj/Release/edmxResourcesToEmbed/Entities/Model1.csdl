@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="wsdemo10Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Produkti">
+    <Key>
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Артикул" />
+      <PropertyRef Name="Минимальная_стоимость_для_агента" />
+      <PropertyRef Name="Изображение" />
+      <PropertyRef Name="Тип_продукции" />
+      <PropertyRef Name="Количество_человек_для_производства" />
+      <PropertyRef Name="Номер_цеха_для_производства" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Артикул" Type="Int32" Nullable="false" />
+    <Property Name="Минимальная_стоимость_для_агента" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Изображение" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Тип_продукции" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Количество_человек_для_производства" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Номер_цеха_для_производства" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="wsdemo10Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Produkti" EntityType="Self.Produkti" />
+  </EntityContainer>
+</Schema>

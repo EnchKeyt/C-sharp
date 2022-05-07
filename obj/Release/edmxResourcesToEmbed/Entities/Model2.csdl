@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="wsdemo10Model1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Sotrudniki">
+    <Key>
+      <PropertyRef Name="Код_сотрудника" />
+    </Key>
+    <Property Name="Код_сотрудника" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ФИО_сотрудника" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Дата_рождения" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Пасспортные_данные" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Банковские_реквизиты" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="wsdemo10Entities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Sotrudniki" EntityType="Self.Sotrudniki" />
+  </EntityContainer>
+</Schema>

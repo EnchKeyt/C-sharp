@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище wsdemo10Model1" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Sotrudniki">
+    <Key>
+      <PropertyRef Name="Код_сотрудника" />
+    </Key>
+    <Property Name="Код_сотрудника" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ФИО_сотрудника" Type="nvarchar" MaxLength="50" />
+    <Property Name="Дата_рождения" Type="nvarchar" MaxLength="50" />
+    <Property Name="Пасспортные_данные" Type="nvarchar" MaxLength="50" />
+    <Property Name="Банковские_реквизиты" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Хранилище wsdemo10Model1Container">
+    <EntitySet Name="Sotrudniki" EntityType="Self.Sotrudniki" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

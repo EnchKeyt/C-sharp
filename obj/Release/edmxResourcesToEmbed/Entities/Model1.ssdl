@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище wsdemo10Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "wsdemo10.dbo.Produkti" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Produkti">
+    <Key>
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Артикул" />
+      <PropertyRef Name="Минимальная_стоимость_для_агента" />
+      <PropertyRef Name="Изображение" />
+      <PropertyRef Name="Тип_продукции" />
+      <PropertyRef Name="Количество_человек_для_производства" />
+      <PropertyRef Name="Номер_цеха_для_производства" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Артикул" Type="int" Nullable="false" />
+    <Property Name="Минимальная_стоимость_для_агента" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Изображение" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Тип_продукции" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Количество_человек_для_производства" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Номер_цеха_для_производства" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Хранилище wsdemo10ModelContainer">
+    <EntitySet Name="Produkti" EntityType="Self.Produkti" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Produkti].[Name] AS [Name], 
+    [Produkti].[Артикул] AS [Артикул], 
+    [Produkti].[Минимальная_стоимость_для_агента] AS [Минимальная_стоимость_для_агента], 
+    [Produkti].[Изображение] AS [Изображение], 
+    [Produkti].[Тип_продукции] AS [Тип_продукции], 
+    [Produkti].[Количество_человек_для_производства] AS [Количество_человек_для_производства], 
+    [Produkti].[Номер_цеха_для_производства] AS [Номер_цеха_для_производства]
+    FROM [dbo].[Produkti] AS [Produkti]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

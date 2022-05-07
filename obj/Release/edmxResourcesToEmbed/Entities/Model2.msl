@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище wsdemo10Model1Container" CdmEntityContainer="wsdemo10Entities3">
+    <EntitySetMapping Name="Sotrudniki">
+      <EntityTypeMapping TypeName="wsdemo10Model1.Sotrudniki">
+        <MappingFragment StoreEntitySet="Sotrudniki">
+          <ScalarProperty Name="Код_сотрудника" ColumnName="Код_сотрудника" />
+          <ScalarProperty Name="ФИО_сотрудника" ColumnName="ФИО_сотрудника" />
+          <ScalarProperty Name="Дата_рождения" ColumnName="Дата_рождения" />
+          <ScalarProperty Name="Пасспортные_данные" ColumnName="Пасспортные_данные" />
+          <ScalarProperty Name="Банковские_реквизиты" ColumnName="Банковские_реквизиты" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

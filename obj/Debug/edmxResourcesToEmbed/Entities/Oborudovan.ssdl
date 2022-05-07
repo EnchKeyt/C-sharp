@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище wsdemo8Model1" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Abonent_oborudovan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Серийный_номер" Type="nvarchar" MaxLength="255" />
+    <Property Name="Наименование" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Magistral">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Серийный_номер" Type="nvarchar" MaxLength="255" />
+    <Property Name="Название" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Seti_dostupa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Серийный_номер" Type="nvarchar" MaxLength="255" />
+    <Property Name="Наименование" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityContainer Name="Хранилище wsdemo8Model1Container">
+    <EntitySet Name="Abonent_oborudovan" EntityType="Self.Abonent_oborudovan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Magistral" EntityType="Self.Magistral" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Seti_dostupa" EntityType="Self.Seti_dostupa" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

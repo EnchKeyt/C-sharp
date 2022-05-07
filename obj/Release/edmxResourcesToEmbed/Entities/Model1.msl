@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище wsdemo10ModelContainer" CdmEntityContainer="wsdemo10Entities1">
+    <EntitySetMapping Name="Produkti">
+      <EntityTypeMapping TypeName="wsdemo10Model.Produkti">
+        <MappingFragment StoreEntitySet="Produkti">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Артикул" ColumnName="Артикул" />
+          <ScalarProperty Name="Минимальная_стоимость_для_агента" ColumnName="Минимальная_стоимость_для_агента" />
+          <ScalarProperty Name="Изображение" ColumnName="Изображение" />
+          <ScalarProperty Name="Тип_продукции" ColumnName="Тип_продукции" />
+          <ScalarProperty Name="Количество_человек_для_производства" ColumnName="Количество_человек_для_производства" />
+          <ScalarProperty Name="Номер_цеха_для_производства" ColumnName="Номер_цеха_для_производства" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

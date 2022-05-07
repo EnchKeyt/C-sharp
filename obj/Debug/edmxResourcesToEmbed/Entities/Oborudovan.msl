@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище wsdemo8Model1Container" CdmEntityContainer="wsdemo8Entities1">
+    <EntitySetMapping Name="Abonent_oborudovan">
+      <EntityTypeMapping TypeName="wsdemo8Model1.Abonent_oborudovan">
+        <MappingFragment StoreEntitySet="Abonent_oborudovan">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Серийный_номер" ColumnName="Серийный_номер" />
+          <ScalarProperty Name="Наименование" ColumnName="Наименование" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Magistral">
+      <EntityTypeMapping TypeName="wsdemo8Model1.Magistral">
+        <MappingFragment StoreEntitySet="Magistral">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Серийный_номер" ColumnName="Серийный_номер" />
+          <ScalarProperty Name="Название" ColumnName="Название" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Seti_dostupa">
+      <EntityTypeMapping TypeName="wsdemo8Model1.Seti_dostupa">
+        <MappingFragment StoreEntitySet="Seti_dostupa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Серийный_номер" ColumnName="Серийный_номер" />
+          <ScalarProperty Name="Наименование" ColumnName="Наименование" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
