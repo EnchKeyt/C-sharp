@@ -1,0 +1,45 @@
+C:\Users\Студент\source\repos\ws09\ws09\bin\Debug\ws09.exe.config
+C:\Users\Студент\source\repos\ws09\ws09\bin\Debug\ws09.exe
+C:\Users\Студент\source\repos\ws09\ws09\bin\Debug\ws09.pdb
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.MaterialDobav.resources
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.Properties.Resources.resources
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.exe
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.pdb
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.Material.resources
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.Glavnaya.resources
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.RedaktirovanMater.resources
+C:\Users\Студент\source\repos\ws09\ws09\obj\Debug\ws09.Postavhiki.resources
+D:\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.exe.config
+D:\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.exe
+D:\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.pdb
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.AssemblyReference.cache
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.SuggestedBindingRedirects.cache
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Glavnaya.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Material.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.MaterialDobav.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Postavhiki.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Properties.Resources.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.RedaktirovanMater.resources
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.GenerateResource.cache
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.CoreCompileInputs.cache
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.exe
+D:\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.pdb
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.exe.config
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.exe
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\bin\Debug\ws09.pdb
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.AssemblyReference.cache
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.SuggestedBindingRedirects.cache
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Glavnaya.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Material.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.MaterialDobav.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Postavhiki.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.Properties.Resources.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.RedaktirovanMater.resources
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.GenerateResource.cache
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.csproj.CoreCompileInputs.cache
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.exe
+D:\Proekt Visual\ws09\Сессия 2\ws09\ws09\obj\Debug\ws09.pdb

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18912995-BDE1-45EB-983E-9B895F15048F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ws09</RootNamespace>
+    <AssemblyName>ws09</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Glavnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavnaya.Designer.cs">
+      <DependentUpon>Glavnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Material.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Material.Designer.cs">
+      <DependentUpon>Material.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialDobav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialDobav.Designer.cs">
+      <DependentUpon>MaterialDobav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Postavhiki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Postavhiki.Designer.cs">
+      <DependentUpon>Postavhiki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedaktirovanMater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RedaktirovanMater.Designer.cs">
+      <DependentUpon>RedaktirovanMater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wsdemo9DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wsdemo9DataSet7.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Glavnaya.resx">
+      <DependentUpon>Glavnaya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Material.resx">
+      <DependentUpon>Material.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialDobav.resx">
+      <DependentUpon>MaterialDobav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Postavhiki.resx">
+      <DependentUpon>Postavhiki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RedaktirovanMater.resx">
+      <DependentUpon>RedaktirovanMater.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="wsdemo9DataSet.xsc">
+      <DependentUpon>wsdemo9DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet.xss">
+      <DependentUpon>wsdemo9DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet1.xsc">
+      <DependentUpon>wsdemo9DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet1.xss">
+      <DependentUpon>wsdemo9DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet2.xsc">
+      <DependentUpon>wsdemo9DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet2.xss">
+      <DependentUpon>wsdemo9DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet3.xsc">
+      <DependentUpon>wsdemo9DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet3.xss">
+      <DependentUpon>wsdemo9DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet4.xsc">
+      <DependentUpon>wsdemo9DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet4.xss">
+      <DependentUpon>wsdemo9DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet5.xsc">
+      <DependentUpon>wsdemo9DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet5.xss">
+      <DependentUpon>wsdemo9DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet6.xsc">
+      <DependentUpon>wsdemo9DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet6.xss">
+      <DependentUpon>wsdemo9DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet7.xsc">
+      <DependentUpon>wsdemo9DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="wsdemo9DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wsdemo9DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wsdemo9DataSet7.xss">
+      <DependentUpon>wsdemo9DataSet7.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Большая пачка.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
