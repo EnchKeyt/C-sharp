@@ -1,0 +1,64 @@
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент\source\repos\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\AbonentPage.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\AbonentPage.baml
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\CRMPage.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\CRMPage.baml
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\App.baml
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\UpravleniePage.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\UpravleniePage.baml
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\PodderzkaPage.g.cs
+C:\Users\Студент\source\repos\WpfApp1\obj\Debug\PodderzkaPage.baml
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\EntityFramework.dll
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\EntityFramework.xml
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proekt Visual\repos\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\AbonentPage.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\CRMPage.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\PodderzkaPage.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\UpravleniePage.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\App.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\App.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\AbonentPage.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\CRMPage.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\MainWindow.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\PodderzkaPage.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\UpravleniePage.baml
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Proekt Visual\repos\WpfApp1\obj\Debug\WpfApp1.pdb

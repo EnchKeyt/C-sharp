@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище NevaModel2" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Abonent">
+    <Key>
+      <PropertyRef Name="Код_абонента" />
+    </Key>
+    <Property Name="Код_абонента" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Номер абонента" Type="nvarchar" MaxLength="255" />
+    <Property Name="ФИО" Type="nvarchar" MaxLength="255" />
+    <Property Name="Пол" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Oborudovanir">
+    <Key>
+      <PropertyRef Name="Код" />
+    </Key>
+    <Property Name="Код" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Серийный номер" Type="nvarchar" MaxLength="255" />
+    <Property Name="Наименование" Type="nvarchar" MaxLength="255" />
+    <Property Name="Порты" Type="nvarchar" MaxLength="255" />
+    <Property Name="Стандарт передачи" Type="nvarchar" MaxLength="255" />
+    <Property Name="Скорость" Type="nvarchar" MaxLength="255" />
+    <Property Name="Адрес абонента" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Roli">
+    <Key>
+      <PropertyRef Name="Номер" />
+    </Key>
+    <Property Name="Номер" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Роль" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sotrudniki">
+    <Key>
+      <PropertyRef Name="Kod" />
+    </Key>
+    <Property Name="Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FIO" Type="nvarchar" MaxLength="255" />
+    <Property Name="Dolznost" Type="nvarchar" MaxLength="255" />
+    <Property Name="ID" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "Neva.dbo.Users" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Kod" />
+      <PropertyRef Name="login" />
+      <PropertyRef Name="password" />
+    </Key>
+    <Property Name="Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Neva.dbo.Zayavki" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Zayavki">
+          <Property Name="номер заявки" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата_создания" Type="date" />
+          <Property Name="ЛС" Type="nvarchar" MaxLength="50" />
+          <Property Name="Услуга" Type="nvarchar" MaxLength="255" />
+          <Property Name="Вид услуги" Type="nvarchar" MaxLength="255" />
+          <Property Name="Тип услуги" Type="nvarchar" MaxLength="255" />
+          <Property Name="Статус" Type="nvarchar" MaxLength="255" />
+          <Property Name="Тип оборудования" Type="nvarchar" MaxLength="255" />
+          <Property Name="Описание проблемы" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата закрытия" Type="datetime" />
+          <Property Name="Тип проблема" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityContainer Name="Хранилище NevaModel2Container">
+    <EntitySet Name="Abonent" EntityType="Self.Abonent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oborudovanir" EntityType="Self.Oborudovanir" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Roli" EntityType="Self.Roli" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sotrudniki" EntityType="Self.Sotrudniki" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Users].[Kod] AS [Kod], 
+    [Users].[login] AS [login], 
+    [Users].[password] AS [password]
+    FROM [dbo].[Users] AS [Users]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

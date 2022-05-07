@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище NevaModelContainer" CdmEntityContainer="NevaEntities2">
+    <EntitySetMapping Name="Abonent">
+      <EntityTypeMapping TypeName="NevaModel.Abonent">
+        <MappingFragment StoreEntitySet="Abonent">
+          <ScalarProperty Name="Код_абонента" ColumnName="Код_абонента" />
+          <ScalarProperty Name="Номер_абонента" ColumnName="Номер абонента" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Пол" ColumnName="Пол" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

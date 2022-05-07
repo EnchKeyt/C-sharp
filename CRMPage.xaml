@@ -1,0 +1,76 @@
+﻿<Page x:Class="WpfApp1.CRMPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="900"
+      Title="CRMPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="169"/>
+            <ColumnDefinition Width="123"/>
+            <ColumnDefinition Width="183.488"/>
+            <ColumnDefinition Width="153.512"/>
+            <ColumnDefinition Width="221"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock FontWeight="Normal"  Foreground="Black" FontSize="30" Grid.Row="0" HorizontalAlignment="Left" Grid.ColumnSpan="2"  Width="114" Grid.Column="1" Margin="112,0,0,0"   >Заявка</TextBlock>
+        
+        <TextBlock Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="92" >Дата создания</TextBlock>
+        <DatePicker SelectedDateFormat="Long"  x:Name="Date" Grid.Row="1" Grid.Column="1" Width="120" Margin="1,37,2,37"/>
+
+        <TextBlock Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="102" >Номер абонента</TextBlock>
+        <TextBox x:Name="Namber" Grid.Row="2" Grid.Column="1" Width="120" Height="20"></TextBox>
+        
+        <TextBlock Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Width="150" Margin="19,0,0,0" >Личевой счет абонента</TextBlock>
+        <TextBox x:Name="Chet" Grid.Row="3" Grid.Column="1" Width="120" Height="20"></TextBox>
+        
+        <TextBlock Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="36"  >Услуга</TextBlock>
+        <ComboBox Grid.Row="4" Grid.Column="1" Width="120" Height="20">
+            <ComboBoxItem Content="Интернет"></ComboBoxItem>
+            <ComboBoxItem Content="Мобильная связь"></ComboBoxItem>
+            <ComboBoxItem Content="Телевидение"></ComboBoxItem>
+            <ComboBoxItem Content="Видеонаблюдение"></ComboBoxItem>
+        </ComboBox>
+        
+        <TextBlock Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="68" >Вид услуги</TextBlock>
+        <ComboBox Grid.Row="5" Grid.Column="1" Width="120" Height="20">
+            <ComboBoxItem Name="Podkl" Content="Подключение"></ComboBoxItem>
+        </ComboBox>
+        
+
+        <TextBlock Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="91" Height="16" Margin="52,0,0,0">Тип проблемы</TextBlock>
+        <TextBox x:Name="T" Grid.Row="1" Grid.Column="3" Width="120" Height="20"></TextBox>
+
+        <TextBox x:Name="Tip" Grid.Row="2" Grid.Column="3" Width="120" Height="20"></TextBox>
+
+        <TextBlock Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="127" Height="16">Описание проблемы</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="3" Width="120" Height="20"></TextBox>
+
+        <TextBlock Grid.Column="2" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="161"  >Тип оборудования клиента</TextBlock>
+        <TextBox Grid.Row="3" Grid.Column="3" Width="120" Height="20"></TextBox>
+
+        <TextBlock Grid.Column="2" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Width="70" Margin="58,0,0,0" >Тип услуги</TextBlock>
+        <ComboBox Name="box2" Grid.Row="4" Grid.Column="3" Width="120" Height="20" ></ComboBox>
+
+        <TextBlock Grid.Column="2" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="46"   >Статус</TextBlock>
+        <ComboBox SelectedIndex="0" BorderThickness="1" Grid.Row="5" Grid.Column="3" Width="120" Height="20" Foreground="Black">
+            <ComboBoxItem  Content="Новая" ></ComboBoxItem>
+            <ComboBoxItem Content="Требует выезда"></ComboBoxItem>
+            <ComboBoxItem Content="Закрыта"></ComboBoxItem>
+        </ComboBox>
+
+        <TextBlock Grid.Column="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Height="16" >Дата закрытия</TextBlock>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="84,28,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+    </Grid>
+</Page>

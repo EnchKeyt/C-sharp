@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище NevaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Abonent">
+    <Key>
+      <PropertyRef Name="Код_абонента" />
+    </Key>
+    <Property Name="Код_абонента" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Номер абонента" Type="nvarchar" MaxLength="255" />
+    <Property Name="ФИО" Type="nvarchar" MaxLength="255" />
+    <Property Name="Пол" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityContainer Name="Хранилище NevaModelContainer">
+    <EntitySet Name="Abonent" EntityType="Self.Abonent" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
