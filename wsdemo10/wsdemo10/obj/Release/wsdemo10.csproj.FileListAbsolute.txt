@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Release\wsdemo10.exe.config
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Release\wsdemo10.exe
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Release\wsdemo10.pdb
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.Aftorization.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.Glavnaya.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.Materials.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.Product.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.ImageProduct.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.ExitForm.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.Properties.Resources.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.exe
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Release\wsdemo10.pdb

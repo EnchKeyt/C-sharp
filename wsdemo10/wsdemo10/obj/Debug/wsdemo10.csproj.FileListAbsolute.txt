@@ -1,0 +1,32 @@
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Properties.Resources.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Debug\wsdemo10.exe.config
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Debug\wsdemo10.exe
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\bin\Debug\wsdemo10.pdb
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.exe
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.pdb
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Product.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Aftorization.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Glavnaya.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Materials.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.ImageProduct.resources
+C:\Users\Студент\source\repos\wsdemo10\wsdemo10\obj\Debug\wsdemo10.ExitForm.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\bin\Debug\wsdemo10.exe.config
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\bin\Debug\wsdemo10.exe
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\bin\Debug\wsdemo10.pdb
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.AssemblyReference.cache
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.SuggestedBindingRedirects.cache
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Aftorization.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Glavnaya.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Materials.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Product.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.ImageProduct.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.ExitForm.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.Properties.Resources.resources
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.GenerateResource.cache
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.csproj.CoreCompileInputs.cache
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.exe
+D:\Proekt Visual\WS10\wsdemo10\wsdemo10\obj\Debug\wsdemo10.pdb
