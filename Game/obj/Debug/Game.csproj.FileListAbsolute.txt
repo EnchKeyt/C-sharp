@@ -1,0 +1,26 @@
+C:\Users\Пользователь\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Пользователь\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Пользователь\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.Saves.resources
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.Save1.resources
+C:\Users\Пользователь\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Proekt Visual\Game\Game\bin\Debug\Game.exe.config
+D:\Proekt Visual\Game\Game\bin\Debug\Game.exe
+D:\Proekt Visual\Game\Game\bin\Debug\Game.pdb
+D:\Proekt Visual\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Proekt Visual\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\Proekt Visual\Game\Game\obj\Debug\Game.Form1.resources
+D:\Proekt Visual\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Proekt Visual\Game\Game\obj\Debug\Game.Save1.resources
+D:\Proekt Visual\Game\Game\obj\Debug\Game.Saves.resources
+D:\Proekt Visual\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Proekt Visual\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Proekt Visual\Game\Game\obj\Debug\Game.exe
+D:\Proekt Visual\Game\Game\obj\Debug\Game.pdb
