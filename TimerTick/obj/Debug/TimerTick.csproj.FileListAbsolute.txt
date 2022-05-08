@@ -1,0 +1,11 @@
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.csproj.AssemblyReference.cache
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.Form1.resources
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.Properties.Resources.resources
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.csproj.GenerateResource.cache
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\TimerTick\TimerTick\bin\Debug\TimerTick.exe.config
+C:\Users\Anna\source\repos\TimerTick\TimerTick\bin\Debug\TimerTick.exe
+C:\Users\Anna\source\repos\TimerTick\TimerTick\bin\Debug\TimerTick.pdb
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.exe
+C:\Users\Anna\source\repos\TimerTick\TimerTick\obj\Debug\TimerTick.pdb
