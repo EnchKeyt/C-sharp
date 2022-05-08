@@ -1,0 +1,702 @@
+<xml>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5501 9486 3084 0216</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>4420</Balance>
+      <CardHolder>EKATERINA BARANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5036 6736 0977 4220</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>8930</Balance>
+      <CardHolder>GALINA BELIAEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5137 2802 8474 1058</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>2490</Balance>
+      <CardHolder>NIKITA KISELEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5020 6473 7155 7524</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>7000</Balance>
+      <CardHolder>MAKSIM FEDOROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5067 3294 7843 6092</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>9740</Balance>
+      <CardHolder>MARINA FEDOROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5489 3558 5783 2338</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>9120</Balance>
+      <CardHolder>OKSANA KOVALEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5548 1798 6463 5016</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>7610</Balance>
+      <CardHolder>IULIIA STEPANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5125 3911 4246 1880</CardNumber>
+      <CardExpDate>2023/04</CardExpDate>
+      <Balance>9960</Balance>
+      <CardHolder>TATIANA VASILEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5092 8348 9231 5136</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>3170</Balance>
+      <CardHolder>VLADIMIR MIKHAILOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5340 3472 7622 8775</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>4190</Balance>
+      <CardHolder>IGOR STEPANOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5045 4685 8409 6932</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>7290</Balance>
+      <CardHolder>MARINA FEDOROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5887 2834 1129 2294</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>1240</Balance>
+      <CardHolder>OLEG ANDREEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5246 1506 3297 0360</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>3890</Balance>
+      <CardHolder>VLADIMIR GOLUBEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5487 6734 6497 4000</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>4920</Balance>
+      <CardHolder>IVAN KOZLOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5711 8490 1606 4486</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>8820</Balance>
+      <CardHolder>ROMAN MAKAROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5947 4728 0146 3916</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>9740</Balance>
+      <CardHolder>OLGA ZAKHAROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5579 4014 4548 7788</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>2140</Balance>
+      <CardHolder>LIUDMILA STEPANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5418 8118 2734 5328</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>7530</Balance>
+      <CardHolder>KONSTANTIN TITOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5084 8823 1410 5320</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>8410</Balance>
+      <CardHolder>MIKHAIL MIKHAILOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5207 5334 3317 5437</CardNumber>
+      <CardExpDate>2023/08</CardExpDate>
+      <Balance>4270</Balance>
+      <CardHolder>SVETLANA KUZNETSOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5080 7881 7958 5205</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>3200</Balance>
+      <CardHolder>NIKITA NOVIKOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5375 9512 1855 9284</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>1420</Balance>
+      <CardHolder>MIKHAIL PETROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5507 3698 3133 0838</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>6430</Balance>
+      <CardHolder>VLADIMIR VINOGRADOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5028 8353 9248 8231</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>2780</Balance>
+      <CardHolder>OLEG KUDRIAVTSEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5289 7245 2558 2066</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>8120</Balance>
+      <CardHolder>ALENA IVANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5930 9869 8499 6987</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>1090</Balance>
+      <CardHolder>EVGENII BOGDANOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5433 4218 8684 0754</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>1200</Balance>
+      <CardHolder>VALENTINA VASILEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5097 1274 5985 7896</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>8850</Balance>
+      <CardHolder>OKSANA SOKOLOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5675 8856 2254 5231</CardNumber>
+      <CardExpDate>2023/04</CardExpDate>
+      <Balance>2680</Balance>
+      <CardHolder>ILIA IVANOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5427 3877 6423 8353</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>6570</Balance>
+      <CardHolder>ILIA FEDOROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5923 6418 6214 3009</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>6170</Balance>
+      <CardHolder>IURII BARANOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5881 9350 5380 2120</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>1090</Balance>
+      <CardHolder>ALENA ROMANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5126 2582 0318 6731</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>6000</Balance>
+      <CardHolder>ALENA ILINA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5601 6176 7931 1426</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>6880</Balance>
+      <CardHolder>EVGENIIA PAVLOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5843 8162 0770 2183</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>3240</Balance>
+      <CardHolder>ANNA BELIAEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5499 6595 7572 9264</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>4610</Balance>
+      <CardHolder>MIKHAIL GERASIMOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5665 8826 1252 2140</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>9700</Balance>
+      <CardHolder>NIKITA GOLUBEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5990 4444 6582 5785</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>3820</Balance>
+      <CardHolder>KONSTANTIN GUSEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5807 3659 9582 0637</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>8950</Balance>
+      <CardHolder>IULIIA KOVALEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5079 1861 5628 5688</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>5780</Balance>
+      <CardHolder>MARIIA GUSEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5198 5459 8664 8835</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>2790</Balance>
+      <CardHolder>ILIA ZAKHAROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5271 1516 0722 9947</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>4470</Balance>
+      <CardHolder>VIKTORIIA SOROKINA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5817 1655 4316 1874</CardNumber>
+      <CardExpDate>2023/06</CardExpDate>
+      <Balance>8590</Balance>
+      <CardHolder>ANDREI SMIRNOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5259 8266 3892 8338</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>3670</Balance>
+      <CardHolder>SERGEI ZAKHAROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5906 6666 5035 5169</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>2110</Balance>
+      <CardHolder>EVGENIIA KOMAROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5619 8682 2376 7940</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>5470</Balance>
+      <CardHolder>IULIIA VINOGRADOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5316 2370 9000 0643</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>4420</Balance>
+      <CardHolder>ELENA GRIGOREVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5486 8431 2591 7653</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>2750</Balance>
+      <CardHolder>IVAN SERGEEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5999 4385 3638 2124</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>8080</Balance>
+      <CardHolder>ELENA SOLOVEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5206 7970 9166 4401</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>9200</Balance>
+      <CardHolder>SERGEI GOLUBEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5778 0494 6516 2010</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>2460</Balance>
+      <CardHolder>DARIA ALEKSEEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5150 6304 0793 9108</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>7880</Balance>
+      <CardHolder>EVGENII ZAKHAROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5507 4998 9185 9309</CardNumber>
+      <CardExpDate>2022/10</CardExpDate>
+      <Balance>7740</Balance>
+      <CardHolder>NATALIA GOLUBEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5080 9537 7580 6856</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>2950</Balance>
+      <CardHolder>OLGA PETROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5405 3125 8200 2753</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>9720</Balance>
+      <CardHolder>OKSANA TARASOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5405 7324 7933 6040</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>2280</Balance>
+      <CardHolder>KSENIIA ORLOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5800 4328 6408 4484</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>4420</Balance>
+      <CardHolder>NATALIA KISELEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5492 0402 4577 7362</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>3450</Balance>
+      <CardHolder>IGOR PAVLOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5183 5535 3764 5661</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>6860</Balance>
+      <CardHolder>DARIA LEBEDEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5445 0028 5833 5936</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>7070</Balance>
+      <CardHolder>SERGEI GUSEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5849 7449 4436 3255</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>8280</Balance>
+      <CardHolder>OKSANA SEMENOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5997 0478 1554 7745</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>6070</Balance>
+      <CardHolder>DMITRII BELOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5669 1252 4255 3069</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>6180</Balance>
+      <CardHolder>ANASTASIIA KUZMINA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5166 1656 7722 5864</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>5860</Balance>
+      <CardHolder>DMITRII FEDOROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5304 6221 5957 2455</CardNumber>
+      <CardExpDate>2022/06</CardExpDate>
+      <Balance>6100</Balance>
+      <CardHolder>OKSANA KUZMINA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5860 1308 7173 9184</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>3030</Balance>
+      <CardHolder>SVETLANA BARANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5944 4254 6761 3383</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>9190</Balance>
+      <CardHolder>ELENA KOMAROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5408 0890 3484 2054</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>5530</Balance>
+      <CardHolder>ANTON PETROV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5702 2551 8050 8244</CardNumber>
+      <CardExpDate>2023/04</CardExpDate>
+      <Balance>8470</Balance>
+      <CardHolder>IGOR PAVLOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5215 1758 3647 6168</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>4450</Balance>
+      <CardHolder>ALEKSANDRA GOLUBEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5666 7224 2888 0507</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>6620</Balance>
+      <CardHolder>ARTEM ZAITSEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5568 5130 6813 5172</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>5640</Balance>
+      <CardHolder>ROMAN BORISOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5586 7751 1350 1561</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>5780</Balance>
+      <CardHolder>VALENTINA GERASIMOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5349 9763 4642 6752</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>9790</Balance>
+      <CardHolder>MARIIA LEBEDEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5529 5892 1952 9263</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>7500</Balance>
+      <CardHolder>MARIIA MOROZOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5516 4459 7161 3842</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>5360</Balance>
+      <CardHolder>VITALII KOROLEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5089 4570 2981 0582</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>9860</Balance>
+      <CardHolder>VLADISLAV VASILEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5552 0381 8854 8078</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>3150</Balance>
+      <CardHolder>IURII ANDREEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5464 8539 0438 4591</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>6640</Balance>
+      <CardHolder>ANTON BELIAEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5368 7969 1816 9697</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>4240</Balance>
+      <CardHolder>ALENA KUZNETSOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5224 8034 9911 6206</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>1630</Balance>
+      <CardHolder>ARTEM MOROZOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5906 0023 0106 1883</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>5800</Balance>
+      <CardHolder>IULIIA STEPANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5135 6083 5086 5082</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>6920</Balance>
+      <CardHolder>VIKTOR ANDREEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5545 0929 7653 0343</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>5930</Balance>
+      <CardHolder>ROMAN IAKOVLEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5445 7620 2847 8029</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>2340</Balance>
+      <CardHolder>NADEZHDA BELIAEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5408 5257 0822 8674</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>5700</Balance>
+      <CardHolder>DARIA GOLUBEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5045 5553 1100 7099</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>3450</Balance>
+      <CardHolder>TATIANA GERASIMOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5867 1427 1264 3296</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>2120</Balance>
+      <CardHolder>NATALIA ROMANOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5405 2273 8585 4756</CardNumber>
+      <CardExpDate>2022/10</CardExpDate>
+      <Balance>3890</Balance>
+      <CardHolder>VLADIMIR GOLUBEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5696 8653 7021 4839</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>9570</Balance>
+      <CardHolder>EVGENII VASILEV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5027 4122 1559 1061</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>3830</Balance>
+      <CardHolder>IULIIA SMIRNOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5432 2790 4221 2941</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>2890</Balance>
+      <CardHolder>MARIIA KULIKOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5881 6922 8854 7216</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>3100</Balance>
+      <CardHolder>ANNA ZAKHAROVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5457 6570 9997 0083</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>5710</Balance>
+      <CardHolder>VLADISLAV POPOV</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5248 5853 2888 4011</CardNumber>
+      <CardExpDate>2022/10</CardExpDate>
+      <Balance>7290</Balance>
+      <CardHolder>KSENIIA VINOGRADOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5678 5370 5973 7644</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>9080</Balance>
+      <CardHolder>NATALIA ORLOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5458 2651 7631 8686</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>5650</Balance>
+      <CardHolder>KSENIIA SMIRNOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5929 6983 8560 3244</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>8190</Balance>
+      <CardHolder>ANNA SEMENOVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5859 5417 7650 8453</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>8700</Balance>
+      <CardHolder>EVGENIIA KISELEVA</CardHolder>
+  </CreditCard>
+  <CreditCard>
+      <CardIssuer>MasterCard</CardIssuer>
+      <CardNumber>5510 7141 9546 6394</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>6790</Balance>
+      <CardHolder>NIKOLAI PETROV</CardHolder>
+  </CreditCard>
+</xml>

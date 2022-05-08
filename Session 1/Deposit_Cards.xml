@@ -1,0 +1,702 @@
+<xml>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4550 4580 1335 7633</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>193</Balance>
+      <CardHolder>OLEG ZAKHAROV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4395 3371 1614 7357</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>2970</Balance>
+      <CardHolder>IULIIA IVANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4532 2496 2396 6654</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>8710</Balance>
+      <CardHolder>EVGENIIA VINOGRADOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4301 3896 9033 6321</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>5440</Balance>
+      <CardHolder>LIUDMILA KOROLEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4495 0252 2355 9288</CardNumber>
+      <CardExpDate>2023/06</CardExpDate>
+      <Balance>2680</Balance>
+      <CardHolder>MIKHAIL SEMENOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4828 2903 9847 8858</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>8440</Balance>
+      <CardHolder>OLEG TITOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4279 7622 9569 5481</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>3210</Balance>
+      <CardHolder>ANASTASIIA PAVLOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4745 0347 6479 1878</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>4810</Balance>
+      <CardHolder>ALEKSANDRA SEMENOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4701 7848 2287 4288</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>4770</Balance>
+      <CardHolder>ALEKSANDRA GUSEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4453 3371 7691 4208</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>5630</Balance>
+      <CardHolder>ANDREI KUZMIN</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4655 5566 2899 8115</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>4330</Balance>
+      <CardHolder>DMITRII KOZLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4756 1730 5734 3421</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>2420</Balance>
+      <CardHolder>ANASTASIIA BELIAEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4123 4315 5110 8534</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>5540</Balance>
+      <CardHolder>IGOR KISELEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4248 6360 1418 1395</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>2620</Balance>
+      <CardHolder>NIKITA KOZLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4728 9078 1843 4812</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>9240</Balance>
+      <CardHolder>NADEZHDA MIKHAILOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4307 9517 1929 8792</CardNumber>
+      <CardExpDate>2022/10</CardExpDate>
+      <Balance>2500</Balance>
+      <CardHolder>LIUDMILA ILINA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4991 2513 2738 7520</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>5930</Balance>
+      <CardHolder>KSENIIA KOROLEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4946 1529 0365 2574</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>2670</Balance>
+      <CardHolder>VALENTINA BELOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4029 4590 4710 6759</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>1720</Balance>
+      <CardHolder>NATALIA SERGEEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4998 2003 9577 0953</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>8270</Balance>
+      <CardHolder>ANASTASIIA ROMANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4950 4752 4118 3736</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>9450</Balance>
+      <CardHolder>KRISTINA TARASOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4148 9668 9982 6520</CardNumber>
+      <CardExpDate>2023/06</CardExpDate>
+      <Balance>7870</Balance>
+      <CardHolder>ALEKSANDR VOLKOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4636 1128 0683 6349</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>2460</Balance>
+      <CardHolder>ALENA SEMENOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4817 5079 8260 5122</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>4130</Balance>
+      <CardHolder>EVGENIIA ALEKSEEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4384 8191 8296 0980</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>5970</Balance>
+      <CardHolder>DMITRII VOLKOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4020 5346 4675 6508</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>5620</Balance>
+      <CardHolder>ALEKSANDRA SMIRNOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4923 9769 9324 0701</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>2350</Balance>
+      <CardHolder>ANNA PONOMAREVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4687 3054 6068 9792</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>2660</Balance>
+      <CardHolder>VITALII VASILEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4416 1732 6465 1873</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>7550</Balance>
+      <CardHolder>ALINA VASILEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4057 7224 8017 7321</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>8660</Balance>
+      <CardHolder>IVAN KOROLEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4663 9736 6016 1504</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>6690</Balance>
+      <CardHolder>PAVEL IAKOVLEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4145 0706 3942 2212</CardNumber>
+      <CardExpDate>2022/06</CardExpDate>
+      <Balance>7960</Balance>
+      <CardHolder>MARINA MIKHAILOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4052 6410 4403 4502</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>6650</Balance>
+      <CardHolder>ANNA SEMENOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4979 6344 1060 0550</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>7420</Balance>
+      <CardHolder>DENIS KOROLEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4823 7119 7797 9870</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>3250</Balance>
+      <CardHolder>MARIIA LEBEDEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4306 1146 6036 0381</CardNumber>
+      <CardExpDate>2022/06</CardExpDate>
+      <Balance>5070</Balance>
+      <CardHolder>ILIA KISELEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4970 4938 2327 5701</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>7620</Balance>
+      <CardHolder>IRINA NOVIKOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4852 0456 1248 8144</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>7370</Balance>
+      <CardHolder>IGOR PONOMAREV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4448 8167 5063 3340</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>7160</Balance>
+      <CardHolder>DENIS FEDOROV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4135 2613 2858 5177</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>9730</Balance>
+      <CardHolder>ANTON FEDOROV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4556 5214 1173 7195</CardNumber>
+      <CardExpDate>2023/06</CardExpDate>
+      <Balance>9080</Balance>
+      <CardHolder>TATIANA BARANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4857 5979 3269 8807</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>2570</Balance>
+      <CardHolder>MARIIA STEPANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4456 7994 3469 6124</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>3030</Balance>
+      <CardHolder>OLGA SOROKINA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4685 3882 5264 0522</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>8640</Balance>
+      <CardHolder>SVETLANA VOROBEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4929 7643 3412 3156</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>5540</Balance>
+      <CardHolder>IURII SEMENOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4707 4604 4344 7093</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>1480</Balance>
+      <CardHolder>ANASTASIIA TARASOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4307 8162 3455 2686</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>3350</Balance>
+      <CardHolder>ALENA STEPANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4035 2193 2883 1067</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>6820</Balance>
+      <CardHolder>KSENIIA SMIRNOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4317 5245 4153 8731</CardNumber>
+      <CardExpDate>2023/10</CardExpDate>
+      <Balance>5820</Balance>
+      <CardHolder>ROMAN MOROZOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4564 1710 2682 1263</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>5770</Balance>
+      <CardHolder>VITALII VASILEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4612 8507 7107 4150</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>6740</Balance>
+      <CardHolder>ALEKSANDRA SOROKINA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4236 2613 7949 1943</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>6230</Balance>
+      <CardHolder>OLGA MIKHAILOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4368 7443 0272 7889</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>9360</Balance>
+      <CardHolder>EVGENII SOKOLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4811 7422 1127 1356</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>4520</Balance>
+      <CardHolder>MIKHAIL IVANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4568 9157 6580 2280</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>8460</Balance>
+      <CardHolder>ALEKSANDR SERGEEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4137 5125 6045 4755</CardNumber>
+      <CardExpDate>2023/08</CardExpDate>
+      <Balance>4090</Balance>
+      <CardHolder>VIKTORIIA SOROKINA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4419 4715 4263 2385</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>2630</Balance>
+      <CardHolder>NIKITA SOKOLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4454 5991 4586 8505</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>4040</Balance>
+      <CardHolder>KONSTANTIN GUSEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4724 1966 8557 7325</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>7340</Balance>
+      <CardHolder>ALEKSANDR VOLKOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4327 3478 8750 7245</CardNumber>
+      <CardExpDate>2022/06</CardExpDate>
+      <Balance>9820</Balance>
+      <CardHolder>DENIS STEPANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4951 0417 6952 6851</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>9090</Balance>
+      <CardHolder>ALEKSEI PAVLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4657 9816 5582 2665</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>3530</Balance>
+      <CardHolder>ANASTASIIA POPOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4299 7128 3741 0283</CardNumber>
+      <CardExpDate>2023/06</CardExpDate>
+      <Balance>7890</Balance>
+      <CardHolder>IULIIA ZAKHAROVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4638 0105 2690 1328</CardNumber>
+      <CardExpDate>2023/04</CardExpDate>
+      <Balance>4900</Balance>
+      <CardHolder>VLADIMIR VASILEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4921 4010 4484 1714</CardNumber>
+      <CardExpDate>2022/06</CardExpDate>
+      <Balance>5570</Balance>
+      <CardHolder>ANTON STEPANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4146 9874 8072 9818</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>1930</Balance>
+      <CardHolder>KONSTANTIN PETROV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4360 5577 1457 8023</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>9530</Balance>
+      <CardHolder>NATALIA PETROVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4195 7042 7931 1868</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>7500</Balance>
+      <CardHolder>NATALIA VINOGRADOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4178 3396 9166 7513</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>2810</Balance>
+      <CardHolder>IVAN ORLOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4871 4248 9322 6084</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>7350</Balance>
+      <CardHolder>DENIS STEPANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4040 7012 8613 5279</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>1860</Balance>
+      <CardHolder>OKSANA BOGDANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4483 7366 2115 0231</CardNumber>
+      <CardExpDate>2022/07</CardExpDate>
+      <Balance>4770</Balance>
+      <CardHolder>EVGENII NOVIKOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4899 2487 1400 7060</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>9130</Balance>
+      <CardHolder>LIUDMILA IAKOVLEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4282 5739 4536 2363</CardNumber>
+      <CardExpDate>2023/12</CardExpDate>
+      <Balance>5010</Balance>
+      <CardHolder>IURII PETROV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4561 0712 9516 9431</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>2840</Balance>
+      <CardHolder>DARIA MIKHAILOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4385 3352 8192 7365</CardNumber>
+      <CardExpDate>2023/09</CardExpDate>
+      <Balance>9090</Balance>
+      <CardHolder>IRINA KUZNETSOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4613 4803 7446 2781</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>2860</Balance>
+      <CardHolder>VIKTOR BORISOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4000 5953 5041 7441</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>8370</Balance>
+      <CardHolder>EKATERINA BARANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4267 6675 3098 2459</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>1240</Balance>
+      <CardHolder>MARIIA VINOGRADOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4895 9422 0965 3420</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>7820</Balance>
+      <CardHolder>TATIANA ANDREEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4437 4387 8474 2212</CardNumber>
+      <CardExpDate>2022/12</CardExpDate>
+      <Balance>7300</Balance>
+      <CardHolder>ARTEM VASILEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4169 2313 5476 3302</CardNumber>
+      <CardExpDate>2023/03</CardExpDate>
+      <Balance>8060</Balance>
+      <CardHolder>VITALII BARANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4744 4518 3616 8383</CardNumber>
+      <CardExpDate>2023/05</CardExpDate>
+      <Balance>6090</Balance>
+      <CardHolder>ELENA KOVALEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4239 6583 4374 0312</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>9650</Balance>
+      <CardHolder>VLADIMIR KOVALEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4645 5649 9074 4169</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>7460</Balance>
+      <CardHolder>VLADIMIR BORISOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4974 1280 6928 8390</CardNumber>
+      <CardExpDate>2022/01</CardExpDate>
+      <Balance>2460</Balance>
+      <CardHolder>MAKSIM VINOGRADOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4530 9768 6820 3680</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>4500</Balance>
+      <CardHolder>IULIIA STEPANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4477 7436 9648 4956</CardNumber>
+      <CardExpDate>2022/05</CardExpDate>
+      <Balance>5240</Balance>
+      <CardHolder>ROMAN ROMANOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4941 1461 5923 7507</CardNumber>
+      <CardExpDate>2022/02</CardExpDate>
+      <Balance>7200</Balance>
+      <CardHolder>NATALIA SERGEEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4360 2512 8012 9243</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>8290</Balance>
+      <CardHolder>IURII BORISOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4643 6743 2238 5920</CardNumber>
+      <CardExpDate>2022/10</CardExpDate>
+      <Balance>4340</Balance>
+      <CardHolder>MARINA GOLUBEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4932 3306 3311 2095</CardNumber>
+      <CardExpDate>2022/03</CardExpDate>
+      <Balance>3440</Balance>
+      <CardHolder>TATIANA BELIAEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4274 8670 5951 9192</CardNumber>
+      <CardExpDate>2022/08</CardExpDate>
+      <Balance>3590</Balance>
+      <CardHolder>PAVEL LEBEDEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4758 7921 6561 0021</CardNumber>
+      <CardExpDate>2023/01</CardExpDate>
+      <Balance>8450</Balance>
+      <CardHolder>NATALIA BARANOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4587 8692 1927 5386</CardNumber>
+      <CardExpDate>2022/04</CardExpDate>
+      <Balance>4350</Balance>
+      <CardHolder>MAKSIM BORISOV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4509 5489 2130 9965</CardNumber>
+      <CardExpDate>2022/11</CardExpDate>
+      <Balance>6670</Balance>
+      <CardHolder>GALINA GRIGOREVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4006 0630 5091 3684</CardNumber>
+      <CardExpDate>2023/02</CardExpDate>
+      <Balance>1810</Balance>
+      <CardHolder>MARIIA KOVALEVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4030 0200 8847 3131</CardNumber>
+      <CardExpDate>2023/07</CardExpDate>
+      <Balance>1300</Balance>
+      <CardHolder>VITALII GUSEV</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4107 7656 8120 0442</CardNumber>
+      <CardExpDate>2022/09</CardExpDate>
+      <Balance>3770</Balance>
+      <CardHolder>ANASTASIIA TARASOVA</CardHolder>
+  </DepositCard>
+  <DepositCard>
+      <CardIssuer>Visa</CardIssuer>
+      <CardNumber>4739 4117 8757 7211</CardNumber>
+      <CardExpDate>2023/11</CardExpDate>
+      <Balance>1350</Balance>
+      <CardHolder>ANNA LEBEDEVA</CardHolder>
+  </DepositCard>
+</xml>
