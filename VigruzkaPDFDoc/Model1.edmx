@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище ws05Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AllAbonts">
+          <Key>
+            <PropertyRef Name="ИД" />
+          </Key>
+          <Property Name="ИД" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Номер_абонента" Type="nvarchar" MaxLength="255" />
+          <Property Name="ФИО" Type="nvarchar" MaxLength="255" />
+          <Property Name="Пол" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата_рождения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер_телефона" Type="nvarchar" MaxLength="255" />
+          <Property Name="Электронная_почта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес_прописки" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес_проживания" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серия_и_номер_паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Код_подразделения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Кем_выдан" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата_выдачи_паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер_договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата_заключения_договора" Type="datetime" />
+          <Property Name="Тип_договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Причина_расторжения_договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Лицевой_счет" Type="float" />
+          <Property Name="Услуги" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги1" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги2" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата_расторжения_договора" Type="datetime" />
+          <Property Name="Аренда" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серийный_номер_оборудования" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityContainer Name="Хранилище ws05ModelContainer">
+          <EntitySet Name="AllAbonts" EntityType="Self.AllAbonts" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ws05Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AllAbonts">
+          <Key>
+            <PropertyRef Name="ИД" />
+          </Key>
+          <Property Name="ИД" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Номер_абонента" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ФИО" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Пол" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Дата_рождения" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Номер_телефона" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Электронная_почта" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Адрес_прописки" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Адрес_проживания" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Серия_и_номер_паспорта" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Код_подразделения" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Кем_выдан" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Дата_выдачи_паспорта" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Номер_договора" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Дата_заключения_договора" Type="DateTime" Precision="3" />
+          <Property Name="Тип_договора" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Причина_расторжения_договора" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Лицевой_счет" Type="Double" />
+          <Property Name="Услуги" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Услуги1" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Услуги2" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Дата_расторжения_договора" Type="DateTime" Precision="3" />
+          <Property Name="Аренда" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Серийный_номер_оборудования" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="ws05Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AllAbonts" EntityType="Self.AllAbonts" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище ws05ModelContainer" CdmEntityContainer="ws05Entities">
+          <EntitySetMapping Name="AllAbonts">
+            <EntityTypeMapping TypeName="ws05Model.AllAbonts">
+              <MappingFragment StoreEntitySet="AllAbonts">
+                <ScalarProperty Name="ИД" ColumnName="ИД" />
+                <ScalarProperty Name="Номер_абонента" ColumnName="Номер_абонента" />
+                <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+                <ScalarProperty Name="Пол" ColumnName="Пол" />
+                <ScalarProperty Name="Дата_рождения" ColumnName="Дата_рождения" />
+                <ScalarProperty Name="Номер_телефона" ColumnName="Номер_телефона" />
+                <ScalarProperty Name="Электронная_почта" ColumnName="Электронная_почта" />
+                <ScalarProperty Name="Адрес_прописки" ColumnName="Адрес_прописки" />
+                <ScalarProperty Name="Адрес_проживания" ColumnName="Адрес_проживания" />
+                <ScalarProperty Name="Серия_и_номер_паспорта" ColumnName="Серия_и_номер_паспорта" />
+                <ScalarProperty Name="Код_подразделения" ColumnName="Код_подразделения" />
+                <ScalarProperty Name="Кем_выдан" ColumnName="Кем_выдан" />
+                <ScalarProperty Name="Дата_выдачи_паспорта" ColumnName="Дата_выдачи_паспорта" />
+                <ScalarProperty Name="Номер_договора" ColumnName="Номер_договора" />
+                <ScalarProperty Name="Дата_заключения_договора" ColumnName="Дата_заключения_договора" />
+                <ScalarProperty Name="Тип_договора" ColumnName="Тип_договора" />
+                <ScalarProperty Name="Причина_расторжения_договора" ColumnName="Причина_расторжения_договора" />
+                <ScalarProperty Name="Лицевой_счет" ColumnName="Лицевой_счет" />
+                <ScalarProperty Name="Услуги" ColumnName="Услуги" />
+                <ScalarProperty Name="Услуги1" ColumnName="Услуги1" />
+                <ScalarProperty Name="Услуги2" ColumnName="Услуги2" />
+                <ScalarProperty Name="Дата_расторжения_договора" ColumnName="Дата_расторжения_договора" />
+                <ScalarProperty Name="Аренда" ColumnName="Аренда" />
+                <ScalarProperty Name="Серийный_номер_оборудования" ColumnName="Серийный_номер_оборудования" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
