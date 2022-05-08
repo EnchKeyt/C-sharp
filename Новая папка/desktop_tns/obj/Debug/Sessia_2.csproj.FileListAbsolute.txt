@@ -1,0 +1,23 @@
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.exe.config
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.exe
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.pdb
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.Properties.Resources.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.GenerateResource.cache
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.exe
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.pdb
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.MainForm.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\bin\Debug\Sessia_2.exe.config
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\bin\Debug\Sessia_2.exe
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\bin\Debug\Sessia_2.pdb
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.MainForm.resources
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.Properties.Resources.resources
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.csproj.GenerateResource.cache
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.exe
+C:\Users\WorldSkills\Downloads\Desktop_TNS-master\desktop_tns\obj\Debug\Sessia_2.pdb
+\\192.168.101.1\it-student\ws05\Новая папка\desktop_tns\obj\Debug\Sessia_2.csproj.AssemblyReference.cache
+\\192.168.101.1\it-student\ws05\Новая папка\desktop_tns\obj\Debug\Sessia_2.exe
+\\192.168.101.1\it-student\ws05\Новая папка\desktop_tns\obj\Debug\Sessia_2.pdb
