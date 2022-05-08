@@ -1,0 +1,12 @@
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.exe.config
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.exe
+C:\Users\WorldSkills\source\repos\Sessia_2\bin\Debug\Sessia_2.pdb
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.Properties.Resources.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.GenerateResource.cache
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.exe
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.pdb
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.MainForm.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.AllOneUser.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.CRM.resources
+C:\Users\WorldSkills\source\repos\Sessia_2\obj\Debug\Sessia_2.csproj.AssemblyReference.cache
