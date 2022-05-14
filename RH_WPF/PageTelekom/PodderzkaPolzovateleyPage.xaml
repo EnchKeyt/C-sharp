@@ -1,0 +1,27 @@
+﻿<Page x:Class="RH_WPF.PageTelekom.PodderzkaPolzovateleyPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RH_WPF.PageTelekom"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="PodderzkaPolzovateleyPage" Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="97*"/>
+            <RowDefinition Height="353*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Поддержка пользователей" Style="{StaticResource ZagolovokStyle}" FontSize="30"></TextBlock>
+        <TextBlock Text="ФИО обонента:" VerticalAlignment="Top" Grid.Row="1" FontSize="12" Margin="5,5,455,0"></TextBlock>
+        <ComboBox Grid.Row="1" Width="150" Height="25" HorizontalAlignment="Left" Margin="100,5" VerticalAlignment="Top"></ComboBox>
+        <TextBlock Text="Заявки абонента:" Grid.Row="1" Margin="0,35,0,295" ></TextBlock>
+        <DataGrid  AutoGenerateColumns="True" Grid.Row="1" Margin="5,58,197,5">
+            <DataGrid.Columns>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock Text="Данные заявки:" FontSize="18" Grid.Row="1" Margin="429,47,10,268" ></TextBlock>
+        <TextBlock x:Name="DannieZayavki" Grid.Row="1" Margin="429,85,10,5"></TextBlock>
+    </Grid>
+</Page>

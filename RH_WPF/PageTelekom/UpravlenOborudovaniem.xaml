@@ -1,0 +1,45 @@
+﻿<Page x:Class="RH_WPF.PageTelekom.UpravlenOborudovaniem"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RH_WPF.PageTelekom"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="UpravlenOborudovaniem"
+      Loaded="Page_Loaded"
+      Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock TextWrapping="Wrap" FontSize="25" Text="Управление оборудованием" Grid.RowSpan="1" Style="{StaticResource ZagolovokStyle}" Margin="0,10,250,5"/>
+
+        <Label Content="Магистраль" Grid.Row="1" FontSize="12"></Label>
+        <DataGrid  x:Name="Magistral" Height="120" VerticalAlignment="Bottom"  AutoGenerateColumns="True" Grid.Row="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn ></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label Content="Сети доступа" Grid.Row="2" FontSize="12"></Label>
+
+        <DataGrid x:Name="Seti_dostupa" Height="120" VerticalAlignment="Bottom" AutoGenerateColumns="True" Grid.Row="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn ></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label Content="Абонентское оборудование" Grid.Row="3" FontSize="12"></Label>
+
+        <DataGrid   x:Name="Abonentskoe_oborudovanie" Height="120" VerticalAlignment="Bottom"  AutoGenerateColumns="True" Grid.Row="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn ></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>
