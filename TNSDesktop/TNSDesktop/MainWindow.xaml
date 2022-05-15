@@ -1,0 +1,78 @@
+﻿<Window x:Class="TNSDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TNSDesktop"
+        mc:Ignorable="d"
+        Title="Телеком Нева Связь" MinHeight="900" MinWidth="1250" Height="700" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="CDVerticalMenu" Width="200"/>
+            <ColumnDefinition>
+            </ColumnDefinition>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="TbNamePage" Text="Абоненты ТНС" FontSize="30"/>
+            <Frame x:Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+        </Grid>
+        <ComboBox x:Name="CbUsers" Grid.Column="1" Width="200" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" SelectionChanged="CbUsers_SelectionChanged">
+        </ComboBox>
+        <Image x:Name="IUsers" Grid.Column="2" Source="Image/NoneStaff.jpg" HorizontalAlignment="Center" VerticalAlignment="Top" Height="119" />
+        <StackPanel Grid.Column="2" Margin="0,124,0,0">
+            <TextBlock Text="События" FontSize="22" HorizontalAlignment="Center"/>
+            <ListBox x:Name="LbNews"/>
+        </StackPanel>
+        <StackPanel>
+            <Image Source="Image/LogoTNS.jpg" />
+            <Label/>
+            <Button x:Name="BtnAbonent" Content="Абоненты" Height="50" Click="BtnAbonent_Click" />
+            <Label/>
+            <Button x:Name="BtnDeviceControl" Content="Управление оборудованием" Height="50" Click="BtnDeviceControl_Click"/>
+            <Label/>
+            <Button x:Name="BtnActive" Content="Активы" Height="50" Click="BtnActive_Click" />
+            <Label/>
+            <Button x:Name="BtnBilling" Content="Биллинг" Height="50" Click="BtnBilling_Click" />
+            <Label/>
+            <Button x:Name="BtnSupport" Content="Поддержка пользователей" Height="50" Click="BtnSupport_Click" />
+            <Label/>
+            <Button x:Name="BtnCRM" Content="CRM" Height="50" Click="BtnCRM_Click" />
+            <Image x:Name="ID1516" Source="Image/ID1516.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1517" Source="Image/ID1517.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1518" Source="Image/ID1518.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1519" Source="Image/ID1519.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1520" Source="Image/ID1520.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1521" Source="Image/ID1521.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1522" Source="Image/ID1522.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1523" Source="Image/ID1523.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1524" Source="Image/ID1524.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1525" Source="Image/ID1525.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1526" Source="Image/ID1526.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1527" Source="Image/ID1527.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1528" Source="Image/ID1528.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1529" Source="Image/ID1529.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1530" Source="Image/ID1530.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1531" Source="Image/ID1531.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1532" Source="Image/ID1532.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1533" Source="Image/ID1533.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1534" Source="Image/ID1534.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1535" Source="Image/ID1535.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1536" Source="Image/ID1536.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1537" Source="Image/ID1537.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1538" Source="Image/ID1538.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1539" Source="Image/ID1539.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1540" Source="Image/ID1540.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1541" Source="Image/ID1541.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1542" Source="Image/ID1542.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1543" Source="Image/ID1543.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1544" Source="Image/ID1544.jpg"  Visibility="Collapsed"/>
+            <Image x:Name="ID1545" Source="Image/ID1545.jpg"  Visibility="Collapsed"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

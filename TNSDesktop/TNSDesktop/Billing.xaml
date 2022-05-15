@@ -1,0 +1,115 @@
+﻿<Page x:Class="TNSDesktop.Billing"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TNSDesktop"
+      mc:Ignorable="d" 
+      d:DesignHeight="750" d:DesignWidth="800"
+      Title="Billing">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="125"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="История платежей" Grid.Row="2"/>
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Width="200">
+                <StackPanel Orientation="Horizontal">
+                    <Label/>
+                    <Button Content=" Платежи " Width="90"/>
+                    <Label/>
+                    <Button Content=" Отчеты " Width="90"/>
+                </StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Текущая дата" Width="100"/>
+                    <TextBox x:Name="TbDate" Width="100"/>
+                </StackPanel>
+            </StackPanel>
+            <Label Width="75"/>
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="Сортировка"/>
+                <RadioButton IsChecked="True" Content="по задолженности"/>
+                <RadioButton Content="по тарифу"/>
+            </StackPanel>
+            <Label Width="75"/>
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="Поиск"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Услуга  "/>
+                    <ComboBox x:Name="CbServices" Width="150" SelectionChanged="CbServices_SelectionChanged"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+        <!--Таблица: задолженности абонента-->
+        <DataGrid x:Name="DgDataAbonent" Grid.Row="1" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Лицевой счет" Binding="{Binding Ls}"/>
+                <DataGridTextColumn Header="Тариф" Binding="{Binding tarif.NameTarif}"/>
+                <DataGridTextColumn Header="Стоимость пакета" Width="200" Binding="{Binding tarif.Price}"/>
+                <DataGridTextColumn Header="Задолжность" Binding="{Binding dolg}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--Таблица: история платежей-->
+        <DataGrid x:Name="DgHistoryPay" Grid.Row="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Дата платежа" Binding="{Binding NumberAbonent}"/>
+                <DataGridTextColumn Header="Сумма платежа" Binding="{Binding NumberAbonent}"/>
+                <DataGridTextColumn Header="Баланс абонента (после платежа)" Width="200" Binding="{Binding NumberAbonent}"/>
+                <DataGridTextColumn Header="Задолжность после совершения платежа" Binding="{Binding NumberAbonent}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Orientation="Vertical" Grid.Row="4">
+            <Label/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Период  "/>
+                <TextBox Width="100"/>
+                <Label/>
+                <TextBox Width="100"/>
+            </StackPanel>
+            <Label/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Сформировать квитанцию  " Width="150"/>
+                <Button Content="pdf" Width="100"/>
+                <Label/>
+                <Button Content="doc" Width="100"/>
+            </StackPanel>
+            <Label/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Назначение пени " Width="150"/>
+                <Button Content="pdf" Width="100"/>
+                <Label/>
+                <Button Content="doc" Width="100"/>
+            </StackPanel>
+            <Label/>
+            <Label/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Перерасчет  "/>
+                <Border Width="15" Background="Green"/>
+                <TextBlock Text=" отмена пени"/>
+                <Label Width="25"/>
+                <Border Width="15" Background="Red"/>
+                <TextBlock Text=" без оплаты"/>
+            </StackPanel>
+            <Label/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Сумма "/>
+                <TextBox Width="100"/>
+                <Label/>
+                <Button Content="pdf" Width="100"/>
+                <Label/>
+                <Button Content="doc" Width="100"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Page>

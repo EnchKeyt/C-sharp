@@ -1,0 +1,48 @@
+﻿<Page x:Class="TNSDesktop.ControlStatePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TNSDesktop"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ControlStatePage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Label/>
+            <StackPanel Width="250">
+                <TextBlock Text="Оборудование магистральных сетей"/>
+                <ListBox x:Name="LbMagistralDevice" Height="383" SelectionChanged="LbMagistralDevice_SelectionChanged" MouseDoubleClick="LbMagistralDevice_MouseDoubleClick"/>
+            </StackPanel>
+            <Label Width="15"/>
+            <StackPanel Width="250">
+                <TextBlock Text="Оборудование сетей доступа"/>
+                <ListBox x:Name="LbLineDevice" Height="383"  />
+            </StackPanel>
+            <Label Width="15"/>
+            <StackPanel Width="250">
+                <TextBlock Text="Оборудование абонента."/>
+                <ListBox x:Name="LbAbonentDevices" Height="383" SelectionChanged="LbAbonentDevices_SelectionChanged" MouseDoubleClick="LbAbonentDevices_MouseDoubleClick"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button Grid.Row="1" Height="30" HorizontalAlignment="Center" Content="Проверка всего оборудования" VerticalAlignment="Center" Click="UpdateStatusDevices_Click"/>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Orientation="Horizontal">
+            <TextBlock Text="Поиск по наименование  "/>
+            <TextBox x:Name="TbFindNameDevice" Width="150" TextChanged="TbFindNameDevice_TextChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Orientation="Horizontal">
+            <TextBlock Text="Поиск по улице  "/>
+            <TextBox x:Name="TbFindLocationDevice" Width="150" TextChanged="TbFindLocationDevice_TextChanged"/>
+        </StackPanel>
+        
+        
+        <!--Цвета-->
+        <Border x:Name="CRed" Background="Red" Visibility="Hidden"/>
+    </Grid>
+</Page>

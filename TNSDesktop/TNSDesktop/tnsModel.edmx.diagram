@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1f7d9847fb244f0b9a4d640f21326d85" Name="Diagram1">
+        <EntityTypeShape EntityType="ws08Model.AbonentDevices" Width="1.5" PointX="5.75" PointY="4.75" />
+        <EntityTypeShape EntityType="ws08Model.Abonents" Width="1.5" PointX="3" PointY="2.75" />
+        <EntityTypeShape EntityType="ws08Model.ComboTarifs" Width="1.5" PointX="7.75" PointY="4.75" />
+        <EntityTypeShape EntityType="ws08Model.Devices" Width="1.5" PointX="7.75" PointY="7.75" />
+        <EntityTypeShape EntityType="ws08Model.LineDevices" Width="1.5" PointX="9.75" PointY="4.75" />
+        <EntityTypeShape EntityType="ws08Model.Magistrals" Width="1.5" PointX="9.75" PointY="8.75" />
+        <EntityTypeShape EntityType="ws08Model.MF" Width="1.5" PointX="0.75" PointY="1.625" />
+        <EntityTypeShape EntityType="ws08Model.OrderCRM" Width="1.5" PointX="5.75" PointY="10.75" />
+        <EntityTypeShape EntityType="ws08Model.Roles" Width="1.5" PointX="5.75" PointY="1.375" />
+        <EntityTypeShape EntityType="ws08Model.Services" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="ws08Model.Staffs" Width="1.5" PointX="8" PointY="1" />
+        <EntityTypeShape EntityType="ws08Model.StreetSPB" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="ws08Model.sysdiagrams" Width="1.5" PointX="11.75" PointY="3.75" />
+        <EntityTypeShape EntityType="ws08Model.Tarifs" Width="1.5" PointX="3" PointY="11.125" />
+        <EntityTypeShape EntityType="ws08Model.TypesDoc" Width="1.5" PointX="0.75" PointY="8" />
+        <EntityTypeShape EntityType="ws08Model.Users" Width="1.5" PointX="11.75" PointY="6.75" />
+        <AssociationConnector Association="ws08Model.FK_Abonents_MF1" />
+        <AssociationConnector Association="ws08Model.FK_Abonents_Services" />
+        <AssociationConnector Association="ws08Model.FK_Abonents_TypesDoc" />
+        <AssociationConnector Association="ws08Model.FK_Staffs_Roles" />
+        <AssociationConnector Association="ws08Model.FK_Tarifs_Services" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
