@@ -1,0 +1,102 @@
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.AuthorizationForm.resources
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.exe
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\ZstdNet.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CopyComplete
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\ZstdNet.dll
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.AuthorizationForm.resources
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CopyComplete
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.exe
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.pdb
+C:\Users\WorldSkills\Desktop\OOO Telekom Neva Svyz\Сессия 1\Desktop_Auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.CodeForm.resources
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.exe
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Authorization.pdb
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\ZstdNet.dll
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.pdb
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\Google.Protobuf.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\MySql.Data.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Buffers.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Memory.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.AuthorizationForm.resources
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.CodeForm.resources
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.csproj.CopyComplete
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.exe
+C:\Users\Anna\Desktop\desktop_auth\OOO Telekom Neva Svyz\Authorization\obj\Debug\Authorization.pdb
