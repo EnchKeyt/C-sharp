@@ -1,0 +1,21 @@
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe.config
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.pdb
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO_Telekom_Neva_Svyaz_Avtorizazia.Avtorizazia.resources
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO_Telekom_Neva_Svyaz_Avtorizazia.Properties.Resources.resources
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.GenerateResource.cache
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe
+C:\Users\WorldSkills\source\repos\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.pdb
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe.config
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\bin\Debug\OOO Telekom Neva Svyaz Avtorizazia.pdb
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.AssemblyReference.cache
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.SuggestedBindingRedirects.cache
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO_Telekom_Neva_Svyaz_Avtorizazia.Avtorizazia.resources
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO_Telekom_Neva_Svyaz_Avtorizazia.Properties.Resources.resources
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.GenerateResource.cache
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.csproj.CoreCompileInputs.cache
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.exe
+D:\Android\RH2022_LRMK\OOO Telekom Neva Svyaz Avtorizazia\obj\Debug\OOO Telekom Neva Svyaz Avtorizazia.pdb
