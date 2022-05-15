@@ -1,0 +1,42 @@
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\bin\Debug\OOO Telecom Neva Svyaz.exe.config
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\bin\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\bin\Debug\OOO Telecom Neva Svyaz.pdb
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO Telecom Neva Svyaz.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO_Telecom_Neva_Svyaz.Abonent.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO_Telecom_Neva_Svyaz.Properties.Resources.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO Telecom Neva Svyaz.csproj.GenerateResource.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO Telecom Neva Svyaz.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO Telecom Neva Svyaz.pdb
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz\obj\Debug\OOO_Telecom_Neva_Svyaz.CRM.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\bin\Debug\OOO Telecom Neva Svyaz.exe.config
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\bin\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\bin\Debug\OOO Telecom Neva Svyaz.pdb
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO Telecom Neva Svyaz.csproj.AssemblyReference.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.Abonent.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.CRM.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.Properties.Resources.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO Telecom Neva Svyaz.csproj.GenerateResource.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO Telecom Neva Svyaz.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO Telecom Neva Svyaz.pdb
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.KontrolSostoania.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.VseInfo.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.PodderzkaPolzovatey.resources
+C:\Users\WorldSkills\source\repos\OOO Telecom Neva Svyaz ws02\obj\Debug\OOO_Telecom_Neva_Svyaz.Billing.resources
+C:\Users\Anna\Desktop\desktop_tns\bin\Debug\OOO Telecom Neva Svyaz.exe.config
+C:\Users\Anna\Desktop\desktop_tns\bin\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\Anna\Desktop\desktop_tns\bin\Debug\OOO Telecom Neva Svyaz.pdb
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.Abonent.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.Billing.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.CRM.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.KontrolSostoania.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.PodderzkaPolzovatey.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.Properties.Resources.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO_Telecom_Neva_Svyaz.VseInfo.resources
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.exe
+C:\Users\Anna\Desktop\desktop_tns\obj\Debug\OOO Telecom Neva Svyaz.pdb
