@@ -1,0 +1,5 @@
+USE Недвижимость;
+
+SELECT * FROM Квартира
+
+WHERE Rooms = 3;

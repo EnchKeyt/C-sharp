@@ -1,0 +1,5 @@
+USE Íåäâèæèìîñòü;
+
+SELECT * FROM Àãåíò
+
+WHERE DealShare>10;
