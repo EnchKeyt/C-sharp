@@ -1,0 +1,1 @@
+Data Source=1-PC\SQLEXPRESS;Initial Catalog=Foto;Integrated Security=True
